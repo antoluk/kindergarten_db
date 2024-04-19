@@ -1,0 +1,9 @@
+/home/antoluk/Kindergarten_db/build/Desktop-Debug/CMakeFiles/Kindergarten_db.dir
+/home/antoluk/Kindergarten_db/build/Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/antoluk/Kindergarten_db/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/antoluk/Kindergarten_db/build/Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/antoluk/Kindergarten_db/build/Desktop-Debug/CMakeFiles/install.dir
+/home/antoluk/Kindergarten_db/build/Desktop-Debug/CMakeFiles/install/local.dir
+/home/antoluk/Kindergarten_db/build/Desktop-Debug/CMakeFiles/install/strip.dir
+/home/antoluk/Kindergarten_db/build/Desktop-Debug/CMakeFiles/Kindergarten_db_autogen_timestamp_deps.dir
+/home/antoluk/Kindergarten_db/build/Desktop-Debug/CMakeFiles/Kindergarten_db_autogen.dir
